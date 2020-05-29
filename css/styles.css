@@ -1,0 +1,90 @@
+#particles-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+
+.intro {
+	text-align: center;
+	vertical-align: middle;
+  height: 700px;
+  position: relative;
+  background:#52616b;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+
+}
+
+.about-me {
+	text-align: center;
+	vertical-align: middle;
+  height: 1000px;
+  position: relative;
+  background:#c9d6df;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about-me-image {
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.title-text {
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive;
+	margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+.sub-text {
+	font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+	font-size: 20px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+.experience {
+  background:#f0f5f9;
+	vertical-align: middle;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+
+}
+
+
+
+.experience-images {
+  height: 300px;
+}
+
+
+
+
